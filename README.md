@@ -73,5 +73,5 @@ Clients' IP Addresses                   Clients' MAC Addresses
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## HIT Counter
+## Visitor Counter
 [![HitCount](http://hits.dwyl.com/Shivam4747/NetworkClient-Scanner.svg)](http://hits.dwyl.comShivam4747/NetworkClient-Scanner)
